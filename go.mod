@@ -1,4 +1,4 @@
-module github.com/go-swagger/go-swagger
+module github.com/6543-forks/go-swagger
 
 go 1.14
 
